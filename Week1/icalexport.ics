@@ -1,0 +1,358 @@
+BEGIN:VCALENDAR
+METHOD:PUBLISH
+PRODID:-//Moodle Pty Ltd//NONSGML Moodle Version 2022112810//EN
+VERSION:2.0
+BEGIN:VEVENT
+UID:3095412@my.uopeople.edu
+SUMMARY:First day of Term 1
+DESCRIPTION:First day of Term. Make sure to login to Moodle [1] and remembe
+	r to thoroughly read the course syllabus  located in the General Informatio
+	n and forum section of the course homepage before you start completing the 
+	class activities for the first week.\n\n\n\nLinks:\n------\n[1] https://my.
+	uopeople.edu/login/index.php\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20230614T181345Z
+DTSTAMP:20240908T033958Z
+DTSTART:20240905T050000Z
+DTEND:20240905T050000Z
+CATEGORIES:Site events
+END:VEVENT
+BEGIN:VEVENT
+UID:3302493@my.uopeople.edu
+SUMMARY:Self-Quiz Unit 1 opens
+DESCRIPTION:The Self-Quiz gives you an opportunity to self-assess your know
+	ledge of what you have learned so far.\n\nThe results of the Self-Quiz do n
+	ot count towards your final grade\, but the quiz is an important part of th
+	e University’s learning process\, and it is expected that you will take it 
+	to ensure an understanding of the materials presented. Reviewing and analyz
+	ing your results will help you perform better on future Graded Quizzes and 
+	the Final Exam.\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20240805T110745Z
+DTSTAMP:20240908T033958Z
+DTSTART:20240905T050500Z
+DTEND:20240905T050500Z
+CATEGORIES:CS 1101-01 - AY2025-T1
+END:VEVENT
+BEGIN:VEVENT
+UID:3307282@my.uopeople.edu
+SUMMARY:Self-Quiz Unit 1 opens
+DESCRIPTION:The Self-Quiz gives you an opportunity to self-assess your know
+	ledge of what you have learned so far.\n\nThe results of the Self-Quiz do n
+	ot count towards your final grade\, but the quiz is an important part of th
+	e University’s learning process and it is expected that you will take it to
+	 ensure understanding of the materials presented. Reviewing and analyzing y
+	our results will help you perform better on future Graded Quizzes and the F
+	inal Exam.\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20240805T131214Z
+DTSTAMP:20240908T033958Z
+DTSTART:20240905T050500Z
+DTEND:20240905T050500Z
+CATEGORIES:SOC 1502-01 - AY2025-T1
+END:VEVENT
+BEGIN:VEVENT
+UID:3095440@my.uopeople.edu
+SUMMARY:AY2025-T1 Last day course drop
+DESCRIPTION:Last day - Course drop. Remember you can always consult with yo
+	ur Program Advisor on the best course of action as we would not like to see
+	 you miss out on a term as you study towards your degree.\n\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20230616T013601Z
+DTSTAMP:20240908T033958Z
+DTSTART:20240911T050000Z
+DTEND:20240911T050000Z
+CATEGORIES:Site events
+END:VEVENT
+BEGIN:VEVENT
+UID:3302513@my.uopeople.edu
+SUMMARY:Discussion Forum Unit 1 is due
+DESCRIPTION:You are required to submit a substantial response to the Discus
+	sion Assignment\, which will be posted by your instructor in the Discussion
+	 Forum below. A substantial response is one that stays on topic and fully a
+	ddresses the assignment in a clear\, concise\, and meaningful manner. REPLY
+	 TO TWO (2) OF YOUR CLASSMATES' POSTS.\n\n-------------------------\n\nDISC
+	USSION REQUIREMENTS\n\nYour post should be between 150 and 300 words.\n\nNO
+	TE: Remember to post as early as possible\, preferably by Sunday evening\, 
+	in order to allow time for you and your classmates to discuss.\n\nYour inst
+	ructor will grade this assignment using this rubric [1]. [2]\n\n-----------
+	--------------\n\nDISCUSSION RESPONSES\n\nIt is your responsibility to resp
+	ond to two classmates by providing comments\, asking questions\, or having 
+	a conversation about their main post. Feedback should be appropriate\, mean
+	ingful\, and helpful. For instance\, refer to how your own experience suppo
+	rts/contradicts the opinions developed by your peers. If you think they are
+	 too general or not rooted enough in personal experience\, you may also ask
+	 for more detailed examples supporting these opinions. In particular\, make
+	 sure that the examples provided are properly referenced and that you are a
+	ble to access them. Overall\, your comments should contribute positively to
+	 the conversation by broadening or clarifying it. Feedback should be at lea
+	st 3-4 complete sentences (100 words).\n\n-------------------------\n\nACAD
+	EMIC INTEGRITY\n\nIf at any time you suspect that a post in this Discussion
+	 Forum violates UoPeople's rules regarding plagiarism and/or any aspect of 
+	UoPeople’s Academic Code of Conduct\, please notify your instructor immedia
+	tely.\n\nNOTE: Your instructor will be assessing your posts/responses for t
+	his discussion. Please wait for your instructor to post the discussion assi
+	gnment below.\n \n\nLinks:\n------\n[1] https://my.uopeople.edu/pluginfile.
+	php/1892834/mod_forum/intro/CS%20DF%20Rubric.2023.pdf\n[2] https://my.uopeo
+	ple.edu/pluginfile.php/1892834/mod_forum/intro/DF%20Rubric%20Unit%201%20to%
+	204%20.pdf\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20240805T110745Z
+DTSTAMP:20240908T033958Z
+DTSTART:20240912T045500Z
+DTEND:20240912T045500Z
+CATEGORIES:CS 1101-01 - AY2025-T1
+END:VEVENT
+BEGIN:VEVENT
+UID:3307297@my.uopeople.edu
+SUMMARY:Discussion Forum Unit 1 is due
+DESCRIPTION:THIS ASSIGNMENT WILL ASSESS YOUR SKILLS AND KNOWLEDGE ABOUT:\n\
+	n	* Explaining why sociology has emerged.\n\n	* Describing sociological per
+	spectives and their alignment to current social factors.\n\n	* Examining th
+	e different theorist/theories associated with the discipline of sociology.\
+	n\n-------------------------\n\n ASSIGNMENT INFORMATION\n\n----------------
+	---------\n\nBased on the reading of this unit and your own understanding\,
+	 answer the following:\n\n	* From your perspective\, have the ideas of Karl
+	 Marx\, Max Weber and Auguste Comte influenced the global economic system? 
+	Provide a few examples where their theories might apply to events witnessed
+	 or experienced in your personal life.\n\n	* Reflecting on your personal ex
+	periences\, what would you consider to be the most important ideas contribu
+	ted by Karl Marx\, Max Weber and Auguste Comte regarding the study of socie
+	ty? Be sure to give examples.\n\n	* Through the lens of a sociologist\, how
+	 might these ideas be relevant to the understanding of society's function.\
+	n\n-------------------------\n\nSUBMISSION INSTRUCTIONS\n\n----------------
+	---------\n\n	* Your Discussion should be a minimum of 500 words in length 
+	and not more than 750 words.\n\n	* You may use the course readings or any r
+	elevant source to respond to the questions and your peer replies.\n\n	* Rem
+	ember to locate\, use\, cite\, and list references in all your discussion p
+	osts to validate statements of fact or corroborate personal opinions/points
+	 of view.\n\n	* Refer to the UoPeople APA Tutorials in the LRC [1] for help
+	 with APA citations. You can contact the librarian at library@uopeople.edu 
+	if you need help. You can also ask the expert in the Learning Resource Cent
+	er Course: Learning Resource Center [2].\n\n NOTE: Remember to post as earl
+	y as possible. The first posting is due on Sunday and the reply is due on W
+	ednesday.\n-------------------------\n\n DISCUSSION RESPONSES\n\n----------
+	---------------\n\nPlease respond to any two classmates by providing commen
+	ts or questions about their main post. Feedback should be appropriate\, mea
+	ningful\, and helpful. Overall\, your comments should contribute positively
+	 to the conversation by broadening or clarifying it. Feedback should be in 
+	complete sentences. Read ' _Peer feedback for students [3]_' to know more a
+	bout how to give feedback.\n\n-------------------------\n\n ACADEMIC INTEGR
+	ITY\n\n-------------------------\n\nIf at any time you suspect that a post 
+	in this assignment violates UoPeople's rules regarding plagiarism and/or an
+	y aspect of UoPeople’s Academic Code of Conduct\, please notify your instru
+	ctor immediately. \n\nYour instructor will grade you based on the _DISCUSSI
+	ON FORUM RUBRIC UNIT 1_. [4]\n\n\nLinks:\n------\n[1] https://my.uopeople.e
+	du/mod/book/view.php?id=223403&amp\;chapterid=250820\n[2] https://my.uopeop
+	le.edu/course/view.php?id=3963%22%20l%20%22section-4%22%20o%20%22https://my
+	.uopeople.edu/course/view.php?id=3963#section-4%22%20t%20%22_blank\n[3] htt
+	ps://my.uopeople.edu/pluginfile.php/1837529/mod_forum/intro/Peer%20Feedback
+	%20for%20students.pdf\n[4] https://my.uopeople.edu/pluginfile.php/1898800/m
+	od_forum/intro/SOC1502_U1_DF_V1.pdf\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20240805T131214Z
+DTSTAMP:20240908T033958Z
+DTSTART:20240912T045500Z
+DTEND:20240912T045500Z
+CATEGORIES:SOC 1502-01 - AY2025-T1
+END:VEVENT
+BEGIN:VEVENT
+UID:3302505@my.uopeople.edu
+SUMMARY:Programming Assignment Unit 1 is due
+DESCRIPTION:ASSIGNMENT INSTRUCTIONS\n\nIn this unit\, we explored the funda
+	mental concepts in computer programming\, basic debugging techniques\, and 
+	reproducing simple calculations in Python.\n\nBefore completing this assign
+	ment\, review the reading materials listed below:\n\na. Think Python: How t
+	o think like a computer scientist [1]\nReview Chapter 1 - The Way of the Pr
+	ogram (pp. 1 – 8) and the examples presented in it. \n\nb.  For installing 
+	the IDLE development environment on UNIX: \nUsing Python on Unix platforms.
+	 (n.d.). Python Documentation. https://docs.python.org/3/using/unix.html [2
+	] \n\nFor  Windows\, refer to: \nUsing Python on Windows. (n.d.). Python Do
+	cumentation. https://docs.python.org/3/using/windows.html [3] \n\nFor Mac\,
+	 refer to: \nSavage\, B. (n.d.). 5. Using Python on a Mac.  Python Document
+	ation https://docs.python.org/3/using/mac.html [4]\n\nThere are two parts t
+	o this assignment. \n\nPART 1:\n\nLEARN FROM YOUR MISTAKES!  \nIN CHAPTER 1
+	\, SECTION 1.9 EXERCISES (PG. 7) OF YOUR TEXTBOOK\, EXERCISE 1.1 SUGGESTS M
+	AKING MISTAKES WHEN EXPERIMENTING WITH A NEW PROGRAMMING FEATURE. THIS KIND
+	 OF EXPERIMENT HELPS YOU REMEMBER WHAT YOU READ\, AND ALSO GET INFORMATION 
+	ON THE ERROR MESSAGES.  \n\nAnswer the following questions (a) to (d).by ex
+	plaining some frequently occurring errors. To help you answer the questions
+	\, write the code in Python and run it to produce output for each of the qu
+	estions.\n\na. If you are trying to print your name\, what happens if you l
+	eave out one of the quotation marks or both\, and why?  \nb. What is the di
+	fference between * and ** operators in Python? Explain with the help of an 
+	example. \nc. In Python\, is it possible to display an integer like 09? Jus
+	tify your answer. \nd. Run the commands type('67') and type(67). What is th
+	e difference in the output and why? \nCopy and paste both the code and the 
+	screenshot of the output for each of the questions in a Word document. \n\n
+	 \n\nPART 2:\n\nWrite a Python program for each of the following questions 
+	a to d.\n\na. To multiply your age by 2 and display it.  For example\, if y
+	our age is 16\, so 16 * 2 = 32 \nb. Display the name of the city\, country\
+	, and continent you are living in.  \nc. To display the examination schedul
+	e (i.e.\, the starting and the ending day) of this term.  \nd. Display the 
+	temperature of your country on the day the assignment is attempted by you  
+	\n\nAdd the PYTHON CODES AND screenshots of the RELATED OUTPUTS in the same
+	 Word document created for Part 1 submissions. Also\, EXPLAIN WHAT YOU LEAR
+	NED from the results of each experiment in part 2 questions. \n\nThe code a
+	nd its output must be explained technically. The explanation can be provide
+	d before or after the code. The descriptive part of your response must be a
+	t least 200 words. \n\n \n\n SUBMISSION INSTRUCTIONS:  \n\n	* Submit the so
+	lutions to both part 1 and part 2 on the same document. \n	* Make sure your
+	 submission is double-spaced\, using Times New Roman\, 12-point font\, with
+	 1” margins.   \n	* Use sources to support your arguments. Use high-quality
+	\, credible\, relevant sources to develop ideas that are appropriate for th
+	e discipline and genre of the writing.  \n	* Use APA citations and referenc
+	es to support your work. Add a reference list at the end of the submission.
+	 For assistance with APA formatting\, view the Learning Resource Center: Ac
+	ademic Writing [5]. \n	* Your submission should be clearly written\, concis
+	e\, well organized\, and free of spelling and grammar errors. The grading w
+	ill be based on the quality of your analysis\, accurate solution to the pro
+	blem\, and the quality of your writing. \n\nREFERENCES \n\nDowney\, A. (201
+	5). Think Python: How to think like a computer scientist. Green Tree Press.
+	 https://greenteapress.com/thinkpython2/thinkpython2.pdf [1]\n\nTHIS ASSIGN
+	MENT WILL BE ASSESSED BY YOUR INSTRUCTOR. PLEASE READ THE GRADING RUBRIC ON
+	 THIS PAGE TO UNDERSTAND HOW THE INSTRUCTOR WILL ASSESS YOUR SUBMISSION.\n\
+	n\nLinks:\n------\n[1] https://greenteapress.com/thinkpython2/thinkpython2.
+	pdf\n[2] https://docs.python.org/3/using/unix.html\n[3] https://docs.python
+	.org/3/using/windows.html\n[4] https://docs.python.org/3/using/mac.html\n[5
+	] https://my.uopeople.edu/course/view.php?id=3963&amp\;section=2\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20240805T110745Z
+DTSTAMP:20240908T033958Z
+DTSTART:20240913T045500Z
+DTEND:20240913T045500Z
+CATEGORIES:CS 1101-01 - AY2025-T1
+END:VEVENT
+BEGIN:VEVENT
+UID:3095441@my.uopeople.edu
+SUMMARY:AY2025-T1 Last day course withdrawal
+DESCRIPTION:Last day - Course Withdrawal. Remember you can always consult w
+	ith your Program Advisor on the best course of action as we would not like 
+	to see you miss out on a term as you study towards your degree.
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20230616T014017Z
+DTSTAMP:20240908T033958Z
+DTSTART:20241002T050000Z
+DTEND:20241002T050000Z
+CATEGORIES:Site events
+END:VEVENT
+BEGIN:VEVENT
+UID:3095443@my.uopeople.edu
+SUMMARY:AY2025-T2 Course registration opens
+DESCRIPTION:Course registration for the upcoming term is now open [1]. Chec
+	k your e-mail for an important e-mail from Student Services. This e-mail wi
+	ll provide you with information on when the registration portal will be ope
+	n for you to register based on your class standing.\n\n\n\nLinks:\n------\n
+	[1] https://your.uopeople.edu/\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20230616T014838Z
+DTSTAMP:20240908T033958Z
+DTSTART:20241003T050000Z
+DTEND:20241003T050000Z
+CATEGORIES:Site events
+END:VEVENT
+BEGIN:VEVENT
+UID:3095444@my.uopeople.edu
+SUMMARY:AY2025-T2 Course Registration closes
+DESCRIPTION:Last day to register [1] for the upcoming term. If you are not 
+	registering for the upcoming\, you should apply for a Leave of Absence (LOA
+	) to avoid being administratively withdrawn from the university. Note that 
+	UoPeople allows students to be inactive for up to three (3) consecutive ter
+	ms but not more than three (3) terms in each academic year (September - Aug
+	ust).\n\n\n\nLinks:\n------\n[1] https://your.uopeople.edu/\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20230616T014933Z
+DTSTAMP:20240908T033958Z
+DTSTART:20241023T050000Z
+DTEND:20241023T050000Z
+CATEGORIES:Site events
+END:VEVENT
+BEGIN:VEVENT
+UID:3302521@my.uopeople.edu
+SUMMARY:Self-Quiz Unit 1 closes
+DESCRIPTION:The Self-Quiz gives you an opportunity to self-assess your know
+	ledge of what you have learned so far.\n\nThe results of the Self-Quiz do n
+	ot count towards your final grade\, but the quiz is an important part of th
+	e University’s learning process\, and it is expected that you will take it 
+	to ensure an understanding of the materials presented. Reviewing and analyz
+	ing your results will help you perform better on future Graded Quizzes and 
+	the Final Exam.\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20240805T110745Z
+DTSTAMP:20240908T033958Z
+DTSTART:20241031T045500Z
+DTEND:20241031T045500Z
+CATEGORIES:CS 1101-01 - AY2025-T1
+END:VEVENT
+BEGIN:VEVENT
+UID:3307303@my.uopeople.edu
+SUMMARY:Self-Quiz Unit 1 closes
+DESCRIPTION:The Self-Quiz gives you an opportunity to self-assess your know
+	ledge of what you have learned so far.\n\nThe results of the Self-Quiz do n
+	ot count towards your final grade\, but the quiz is an important part of th
+	e University’s learning process and it is expected that you will take it to
+	 ensure understanding of the materials presented. Reviewing and analyzing y
+	our results will help you perform better on future Graded Quizzes and the F
+	inal Exam.\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20240805T131214Z
+DTSTAMP:20240908T033958Z
+DTSTART:20241031T045500Z
+DTEND:20241031T045500Z
+CATEGORIES:SOC 1502-01 - AY2025-T1
+END:VEVENT
+BEGIN:VEVENT
+UID:3095442@my.uopeople.edu
+SUMMARY:AY2025-T1 Undergraduate Final Exam period starts
+DESCRIPTION:Undergraduate final exams period starts. Keep in mind that the 
+	final exams opens for 4 days only (Thursday - Sunday)\, and you should take
+	 the final exams as early in the exams period as possible and not close to 
+	the deadline or last minute.\n\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20230616T014606Z
+DTSTAMP:20240908T033958Z
+DTSTART:20241031T050000Z
+DTEND:20241031T050000Z
+CATEGORIES:Site events
+END:VEVENT
+BEGIN:VEVENT
+UID:3095445@my.uopeople.edu
+SUMMARY:AY2025-T1 Undergraduate Final Exam period ends
+DESCRIPTION:Last day to take the final exams for undergraduates and last da
+	y to pay course assessment fee. If you have not yet paid your course assess
+	ment fee\, complete your payment today [1] in order not to be put on financ
+	ial hold and lose your spot in the upcoming term!\n\n\n\nLinks:\n------\n[1
+	] https://your.uopeople.edu/\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20230616T020336Z
+DTSTAMP:20240908T033958Z
+DTSTART:20241103T050000Z
+DTEND:20241103T050000Z
+CATEGORIES:Site events
+END:VEVENT
+BEGIN:VEVENT
+UID:3095446@my.uopeople.edu
+SUMMARY:AY2025-T1 Last day of Term
+DESCRIPTION:
+CLASS:PUBLIC
+LAST-MODIFIED:20230616T020523Z
+DTSTAMP:20240908T033958Z
+DTSTART:20241106T050000Z
+DTEND:20241106T050000Z
+CATEGORIES:Site events
+END:VEVENT
+END:VCALENDAR
